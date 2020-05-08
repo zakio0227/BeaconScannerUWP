@@ -1,0 +1,12 @@
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\bin\Debug\netstandard2.0\BeaconScannerUWP.deps.json
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\bin\Debug\netstandard2.0\BeaconScannerUWP.dll
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\bin\Debug\netstandard2.0\ref\BeaconScannerUWP.dll
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\bin\Debug\netstandard2.0\BeaconScannerUWP.pdb
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\obj\Debug\netstandard2.0\BeaconScannerUWP.csprojAssemblyReference.cache
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\obj\Debug\netstandard2.0\BeaconScannerUWP.AssemblyInfoInputs.cache
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\obj\Debug\netstandard2.0\BeaconScannerUWP.AssemblyInfo.cs
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\obj\Debug\netstandard2.0\BeaconScannerUWP.dll
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\obj\Debug\netstandard2.0\ref\BeaconScannerUWP.dll
+C:\Users\cats\Desktop\BeaconScannerUWP\BeaconScannerUWP\BeaconScannerUWP\obj\Debug\netstandard2.0\BeaconScannerUWP.pdb
